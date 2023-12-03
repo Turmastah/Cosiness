@@ -1,0 +1,25 @@
+﻿<Application x:Class="Cosiness.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Cosiness"
+             StartupUri="Forms/AuthView.xaml">
+</Application>
+<!--public partial class CosinessEntities : DbContext
+    {
+        private static CosinessEntities _context;
+        public CosinessEntities()
+            : base("name=CosinessEntities")
+        {
+        }
+        public static CosinessEntities GetContext()
+        {
+            if (_context == null)
+            {
+                _context = new CosinessEntities();
+            }
+            return _context;
+        }
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            throw new UnintentionalCodeFirstException();
+        }-->

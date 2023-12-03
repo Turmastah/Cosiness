@@ -1,0 +1,100 @@
+﻿<Window x:Class="Cosiness.PersonalUsers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cosiness"
+        xmlns:commands="clr-namespace:Cosiness.Commands"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        Title="Пользователи" Height="450" Width="800">
+    <Grid  Background="#FFE4C4" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5.843" ></RowDefinition>
+            <RowDefinition Height="44.243"></RowDefinition>
+            <RowDefinition Height="35"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="137*"></RowDefinition>
+            <RowDefinition Height="57*"/>
+            <RowDefinition Height="92*"/>
+        </Grid.RowDefinitions>
+        <Border  Background="#FFE4C4" BorderThickness="1"
+            Visibility="Visible"
+            Grid.Row="6" x:Name="BorderFind" BorderBrush="Black" Margin="0,28.096,0.043,-0.27" Grid.ColumnSpan="2"       >
+            <Grid Margin="0.165,27.165,0.209,0.443"    >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="398*"/>
+                    <ColumnDefinition Width="395*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+
+                </Grid.RowDefinitions>
+                <ComboBox x:Name="RoleSearch" FontSize="21" DisplayMemberPath="Role_name" SelectionChanged="RoleSearch_SelectionChanged" Margin="0,0,155.374,1.001" BorderBrush="White" Foreground="#FF9C9C9C" Height="31" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="237" Grid.Column="1">
+                    <ComboBox.Background>
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </ComboBox.Background>
+                </ComboBox>
+                <Button x:Name="RoleSearchButton" ToolTip="Поиск по принадлежности к определенной роли" IsEnabled="False" Click="RoleSearchButton_Click" Margin="252.643,0,0,1.001" Height="31" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="46" Grid.Column="1" BorderBrush="White" Background="White"  >
+                    <Image Source="/Images/Find.png"/>
+                </Button>
+                <TextBlock Text="Роль:" FontSize="21" HorizontalAlignment="Right" TextAlignment="Center" RenderTransformOrigin="0.958,0.472" Margin="0,0,3.357,1.001" Width="97" Height="31" VerticalAlignment="Bottom"/>
+                <TextBlock Text="Система поиска" FontSize="21" TextDecorations="{x:Null}" FontWeight="Bold" TextAlignment="Center" HorizontalAlignment="Left" Width="297" Height="31" VerticalAlignment="Top" Margin="0,3,0,0"/>
+            </Grid>
+        </Border>
+        <ToolBar x:Name="ToolBar" Grid.ColumnSpan="2" Margin="115,1.157,0.043,10.087" Grid.Row="1" Background="{x:Null}">
+            <Button x:Name="Undo" ToolTip="Отмена действия" Command="Undo">
+                <Image Source="/Images/Undo.png"/>
+            </Button>
+            <Button x:Name="Edit" ToolTip="Изменить" Command="{x:Static commands:DataCommands.Edit}">
+                <Image Source="/Images/Edit.png"/>
+            </Button>
+
+            <Button x:Name="Save" ToolTip="Сохранить изменения" Command="Save">
+                <Image Source="/Images/Save.png"/>
+            </Button>
+            <Button x:Name="Delete" ToolTip="Удалить" Command="{x:Static commands:DataCommands.Delete}">
+                <Image Source="/Images/Cancel.png"/>
+            </Button>
+            <Button x:Name="Refresh" Command="Refresh" ToolTip="Обновить данные">
+                <Image Source="/Images/refresh.png" />
+            </Button>
+        </ToolBar>
+        <DataGrid x:Name="DataGridUser" 
+                  Grid.Row="1"
+                  FontSize="21"
+                  Grid.ColumnSpan="2"
+                  IsReadOnly ="True"
+                  AutoGenerateColumns="False"
+                  Grid.RowSpan="6" 
+                  RowBackground="Wheat"
+                  AlternatingRowBackground="GhostWhite"
+                  RowHeight="25"
+                  Cursor="Hand" Margin="0,44.157,0.043,37.73">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding User_ID, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridComboBoxColumn x:Name="РольChange" Header="Роль" DisplayMemberPath="Role_name" SelectedValueBinding="{Binding Role_ID, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" SelectedValuePath="Role_ID" IsReadOnly="False"/>
+                <DataGridTextColumn Header="Имя" Binding="{Binding Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding Surname, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="Отчество" Binding="{Binding Patronymic, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="Логин" Binding="{Binding Login, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="Пароль" Binding="{Binding Password, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="Последний вход " Binding="{Binding Last_login_date, Mode=TwoWay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="BackButton" FontSize="21" Width="100" HorizontalAlignment="Left" Click="BackButton_Click" Height="33" VerticalAlignment="Bottom" Margin="10,0,0,11.087" Background="White" Content="Назад" Grid.Row="1" BorderBrush="White" />
+    </Grid>
+    <Window.CommandBindings>
+        <CommandBinding Command="{x:Static commands:DataCommands.Delete}" Executed="DeleteCommandBinding_Executed" CanExecute="DeleteCommandBinding_CanExecute"/>
+        <CommandBinding Command="{x:Static commands:DataCommands.Edit}" Executed="EditCommandBinding_Executed" CanExecute="EditCommandBinding_CanExecute"/>
+        <CommandBinding Command="Save" CanExecute="SaveCommandBinding_CanExecute" Executed="SaveCommandBinding_Executed"/>
+        <CommandBinding Command="Undo" CanExecute="UndoCommandBinding_CanExecute" Executed="UndoCommandBinding_Executed"/>
+        <CommandBinding Command="Refresh" CanExecute="RefreshCommandBinding_CanExecute" Executed="RefreshCommandBinding_Executed"/>
+    </Window.CommandBindings>
+</Window>
