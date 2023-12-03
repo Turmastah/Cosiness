@@ -1,0 +1,204 @@
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.AssemblyReference.cache
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\App.g.cs
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness_MarkupCompile.cache
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness_MarkupCompile.lref
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness_Content.g.cs
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\bin\Debug\Cosiness.exe.config
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\bin\Debug\Cosiness.exe
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\bin\Debug\Cosiness.pdb
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.dll
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\bin\Debug\System.ValueTuple.dll
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.xml
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\bin\Debug\System.ValueTuple.xml
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.g.resources
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.Properties.Resources.resources
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.GenerateResource.cache
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.CoreCompileInputs.cache
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.CopyComplete
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.exe
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.pdb
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\AuthView.g.cs
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\BasketView.g.cs
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\BuyerMenu.g.cs
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\BuyerCatalog.g.cs
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\PersonalCatalog.g.cs
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\PersonalMenu.g.cs
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\PersonalOrders.g.cs
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\RegisterForm.g.cs
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\PersonalUsers.g.cs
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\AuthView.baml
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\BasketView.baml
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\BuyerMenu.baml
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\BuyerCatalog.baml
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\PersonalCatalog.baml
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\PersonalMenu.baml
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\PersonalOrders.baml
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\RegisterForm.baml
+C:\Users\roman\Рабочий стол\УЮТ\Cosiness\Cosiness\obj\Debug\PersonalUsers.baml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csprojAssemblyReference.cache
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\App.g.cs
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness_Content.g.cs
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness_MarkupCompile.cache
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness_MarkupCompile.lref
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.exe
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.pdb
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\bin\Debug\Cosiness.exe.config
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\bin\Debug\Cosiness.exe
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\bin\Debug\Cosiness.pdb
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.dll
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\bin\Debug\System.ValueTuple.dll
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.xml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\bin\Debug\System.ValueTuple.xml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\bin\Debug\ru\EntityFramework.resources.dll
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.g.resources
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.Properties.Resources.resources
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.GenerateResource.cache
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.CoreCompileInputs.cache
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.CopyComplete
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\AuthView.g.cs
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BasketView.g.cs
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BuyerMenu.g.cs
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BuyerCatalog.g.cs
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalCatalog.g.cs
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalMenu.g.cs
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalOrders.g.cs
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\RegisterForm.g.cs
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalUsers.g.cs
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\AuthView.baml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BasketView.baml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BuyerMenu.baml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BuyerCatalog.baml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalCatalog.baml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalMenu.baml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalOrders.baml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\RegisterForm.baml
+E:\Users\Romanchukmd\Desktop\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalUsers.baml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\bin\Debug\Cosiness.exe.config
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\bin\Debug\Cosiness.exe
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\bin\Debug\Cosiness.pdb
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.dll
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\bin\Debug\System.ValueTuple.dll
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.xml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\bin\Debug\System.ValueTuple.xml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.AssemblyReference.cache
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\AuthView.g.cs
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BasketView.g.cs
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BuyerMenu.g.cs
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BuyerCatalog.g.cs
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalCatalog.g.cs
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalMenu.g.cs
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalOrders.g.cs
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\RegisterForm.g.cs
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalUsers.g.cs
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness_Content.g.cs
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness_MarkupCompile.cache
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness_MarkupCompile.lref
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\AuthView.baml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BasketView.baml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BuyerMenu.baml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\BuyerCatalog.baml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalCatalog.baml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalMenu.baml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalOrders.baml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\RegisterForm.baml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\PersonalUsers.baml
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.g.resources
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.Properties.Resources.resources
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.GenerateResource.cache
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.CoreCompileInputs.cache
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.CopyComplete
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.exe
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Cosiness.pdb
+C:\Users\roman\Рабочий стол\Новая папка\Новая папка\УЮТ\Cosiness\Cosiness\obj\Debug\Windows\App.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\bin\Debug\Cosiness.exe.config
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\bin\Debug\Cosiness.exe
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\bin\Debug\Cosiness.pdb
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\bin\Debug\EntityFramework.dll
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\bin\Debug\System.ValueTuple.dll
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\bin\Debug\EntityFramework.xml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\bin\Debug\System.ValueTuple.xml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Cosiness.csproj.AssemblyReference.cache
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\AddImages.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\AuthView.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\BasketView.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\BuyerMenu.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\BuyerCatalog.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\PersonalCatalog.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\PersonalMenu.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\PersonalOrders.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\RegisterForm.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\PersonalUsers.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\App.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Cosiness_Content.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Cosiness_MarkupCompile.cache
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Cosiness_MarkupCompile.lref
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\AddImages.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\AuthView.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\BasketView.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\BuyerMenu.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\BuyerCatalog.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\PersonalCatalog.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\PersonalMenu.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\PersonalOrders.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\RegisterForm.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Forms\PersonalUsers.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Cosiness.g.resources
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Cosiness.Properties.Resources.resources
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Cosiness.csproj.GenerateResource.cache
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Cosiness.csproj.CoreCompileInputs.cache
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Cosiness.csproj.CopyComplete
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Cosiness.exe
+C:\Users\roman\Рабочий стол\СЮДААА\Моя\Cosiness\obj\Debug\Cosiness.pdb
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\bin\Debug\Cosiness.exe.config
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\bin\Debug\Cosiness.exe
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\bin\Debug\Cosiness.pdb
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\bin\Debug\EntityFramework.dll
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\bin\Debug\System.ValueTuple.dll
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\bin\Debug\EntityFramework.xml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\bin\Debug\System.ValueTuple.xml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.AssemblyReference.cache
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\AddImages.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\AuthView.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\BasketView.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\BuyerMenu.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\BuyerCatalog.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\PersonalCatalog.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\PersonalMenu.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\PersonalOrders.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\RegisterForm.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\PersonalUsers.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\App.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Cosiness_Content.g.cs
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Cosiness_MarkupCompile.cache
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Cosiness_MarkupCompile.lref
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\AddImages.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\AuthView.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\BasketView.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\BuyerMenu.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\BuyerCatalog.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\PersonalCatalog.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\PersonalMenu.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\PersonalOrders.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\RegisterForm.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Forms\PersonalUsers.baml
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Cosiness.g.resources
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Cosiness.Properties.Resources.resources
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.GenerateResource.cache
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.CoreCompileInputs.cache
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Cosiness.csproj.CopyComplete
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Cosiness.exe
+C:\Users\roman\Рабочий стол\СЮДААА\Cosiness\Cosiness\obj\Debug\Cosiness.pdb
